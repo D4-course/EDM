@@ -3,7 +3,7 @@
 Team Number: 22
 Roll Numbers: 2019113007, 2018113002
 
-<img src="equivariant_diffusion/overview.png" width="400">
+<img src="e3_diffusion_for_molecules/equivariant_diffusion/overview.png" width="400">
 
 Official code release for the paper Equivariant Diffusion for Molecule Generation in 3D.
 
@@ -20,7 +20,7 @@ and then install the other required packages from there. The code should still r
 
 A visualization of what happens during training:
 
-<img src="equivariant_diffusion/training.png" width="400">
+<img src="e3_diffusion_for_molecules/equivariant_diffusion/training.png" width="400">
 
 
 ### After training
