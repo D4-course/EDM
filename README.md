@@ -1,7 +1,9 @@
 # EDM: E(3) Equivariant Diffusion Model for Molecule Generation in 3D.
 
-Team Number: 22
-Roll Numbers: 2019113007, 2018113002
+- Project 2 Demo Link: https://drive.google.com/file/d/11xZAdlviLigrBCVQEmOA_NV6xuo4VaP4/view
+
+- Team Number: 22
+- Roll Numbers: 2019113007 (Sriram Devata), 2018113002 (Bhuvanesh Sridharan)
 
 <img src="e3_diffusion_for_molecules/equivariant_diffusion/overview.png" width="400">
 
